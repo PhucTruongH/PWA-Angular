@@ -18,6 +18,7 @@ on:
         description: 'Test scenario tags'  
 
 permissions:
+  id-token: write
   pages: write
   
 jobs:
