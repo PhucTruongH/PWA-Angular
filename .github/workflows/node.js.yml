@@ -17,6 +17,9 @@ on:
       tags:
         description: 'Test scenario tags'  
 
+permissions:
+  pages: write
+  
 jobs:
   build:
 
