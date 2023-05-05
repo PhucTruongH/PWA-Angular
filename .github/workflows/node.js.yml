@@ -43,7 +43,7 @@ jobs:
       uses: actions/upload-pages-artifact@v1
       with:
           # Upload entire repository
-          path: build # The folder the action should deploy.
+          path: "/home/runner/work/PWA/" # The folder the action should deploy.
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
