@@ -1,6 +1,6 @@
 {
-  "name": "ngX-Rocket",
-  "short_name": "ngX-Rocket",
+  "name": "Angular-PWA-Sample",
+  "short_name": "PWA-Sample",
   "theme_color": "#488aff",
   "background_color": "#488aff",
   "display": "standalone",
